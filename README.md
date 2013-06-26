@@ -1,4 +1,11 @@
-# Sinatra + Haml + Bootstrap
+# Sinatra + Haml + Foundation
+
+<p align="center">
+  <img src="http://openiconlibrary.sourceforge.net/gallery2/open_icon_library-full/icons/png/256x256/symbols/pictogram-din-w000-general.png"/>
+</p>
+<p align="center">
+  this project is currenty **not** in a working state
+</p>
 
 ##Main components of project
 
@@ -8,9 +15,9 @@
 ####Haml
 - Haml [site](http://haml.info/)
 
-####Bootstrap
-- Bootstrap [site](http://twitter.github.io/bootstrap/)
-- The examples from the Twitter.github.com site can be found [here](http://twitter.github.com/bootstrap/examples.html)
+####Foundation
+- Foundation [site](http://foundation.zurb.com)
+- Documentation is available [here](http://foundation.zurb.com/docs/)
 
 
 #### Setup
@@ -35,11 +42,6 @@ Bundler if up don't already have it installed then run:
 Update the config.ru file to change Shotgun settings. Likewise /config/deploy.rb for the Vlad settings and
 Gemfile for your bundler install settings
 
+## Credits
 
-
-## Similar templates
-The Sinatra, Haml, Bootstrap versions can be found here
-
-- [Starter](https://github.com/ghostandthemachine/sinatra-haml-bootstrap-starter)
-- [Hero](https://github.com/ghostandthemachine/sinatra-haml-bootstrap-hero)
-- [Fluid](https://github.com/ghostandthemachine/sinatra-haml-bootstrap-fluid)
+Forked from the sweet [sinatra+haml+bootstrap](https://github.com/ghostandthemachine/sinatra-haml-bootstrap-fluid) project by [ghostandthemachine](https://github.com/ghostandthemachine)
